@@ -12,8 +12,7 @@
 5. Sign up to MongoDB Atlas and create a new project by just providing it a name then next next create.
 6. From "Create a cluster" screen, hit "create", Select M0 service keeping other services as default, hit "create deployment"
 7. Setup the username and password and then create DB user.
-7.1 { username: virendrathakre03_db_user , password: ij3HjA1bcDTc8nJ4 , CFdDDyQifheqOqvW}
-7.2 {mongodb+srv://virendrathakre03_db_user:CFdDDyQifheqOqvW@vehicle.uvvfyfz.mongodb.net/?appName=vehicle}
+
 8. Go to "network access" and add ip address - "0.0.0.0/0" so that we can access it from anywhere
 9. Go back to project >> "Get Connection String" >> "Drivers" >> {Driver:Python, Version:3.6 or later} 
    >> copy and save the connection string with you(replace password). >> Done.
