@@ -3,6 +3,20 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+
+id="y9ifb1"
+artifact/
+*.pkl
+*.npy
+__pycache__/
+.ipynb_checkpoints/
+venv/
+.venv/
+env/
+
+
+
+
 # C extensions
 *.so
 
